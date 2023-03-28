@@ -1,7 +1,34 @@
-# Statistical-Data-Mining
+## Statistical-Data-Mining
 
-This is a repository with culmination of assignments from courses EAS 506 STatistical Data Mining 1 and 2
+Statistical Data Mining: Supervised Learning Methods
+This folder contains implementations of several supervised learning methods in R for the Statistical Data Mining.
+Various visualizations techniques also have been used such as ggplot.
+Datasets involved:
+**cereal.csv** : To make analysis on various nutritional values and find correlations between them and perform Classification and Regression Training. 
+**Boston Housing dataset**: used for predicts whether a property is located in a high or low-value area based on its characteristics using logistic regression model and random forest models.
+**Weekly Dataset**
+**diabeties Dataset**
+**pendigits Dataset**
+**spam Dataset**
 
-This shall give you an overview on basic Explatory analysis on Structured as well as Unstructred data. 
-Involves concepts of data cleaning, data transformation and knowledge discovery process.
-Also gives you insights on Supervised and UnSupervised Learning.
+
+
+## Implemented Methods
+The following supervised learning methods are implemented in this folder:
+
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forest
+Support Vector Machines (SVM)
+
+## Statistical Data Mining: Unsupervised Learning Methods
+This folder contains implementations of several unsupervised learning methods in R for the Statistical Data Mining.
+
+##Implemented Methods
+The following unsupervised learning methods are implemented in this folder:
+
+K-Means Clustering
+Hierarchical Clustering
+Principal Component Analysis (PCA)
+Independent Component Analysis (ICA)
