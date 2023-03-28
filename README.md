@@ -25,7 +25,7 @@ Support Vector Machines (SVM)
 ## Statistical Data Mining: Unsupervised Learning Methods
 This folder contains implementations of several unsupervised learning methods in R for the Statistical Data Mining.
 
-##Implemented Methods
+## Implemented Methods
 The following unsupervised learning methods are implemented in this folder:
 
 K-Means Clustering
