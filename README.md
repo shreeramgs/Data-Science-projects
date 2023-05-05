@@ -18,7 +18,15 @@ One approach I personally use to start and solve any case scenario is use the be
 - [ ] Collobaration solutions if needed
 - [ ] Find the various Statistical analysis that would be implemented
 - [x] **Method** :
+-  Data Quality Inspection and EDA
+-  Data Preprocessing and Feature Engineering(*Data Cleaning, *Data Integration, *Data Reduction, *Data Transformatiion & Data Reduction )
+-  Feature Selection Methodologies
+-  Model Selection & Creation
+-  Model Evaluation and Hyper Parameter Tuning
+-  Result Visualization
+-  Model Deployment
 - [x] **Conclude** :
+-  Provide conclusion by explaining the problem statement significance and decisions to be taken based on results 
 
 
 
