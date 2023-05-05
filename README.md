@@ -8,7 +8,17 @@ The problem statement is a critical first step in any data science project, prov
 One approach I personally use to start and solve any case scenario is use the below method, and structure a solution accordingly.
 ![image](https://user-images.githubusercontent.com/40434495/236561740-3a14afbc-97e7-430d-9804-5a11f6f0d1dc.png)
 
-
+- [x] **Clarify** :
+- [ ] Define the scope of the problem
+- [x] **Constrain** :
+- [ ] Refine the problem by setting boundaries and parameters
+- [x] **Plan** :
+- [ ] Frame you respone
+- [ ] Data Gathering solutions
+- [ ] Collobaration solutions if needed
+- [ ] Find the various Statistical analysis that would be implemented
+- [x] **Method** :
+- [x] **Conclude** :
 
 
 
