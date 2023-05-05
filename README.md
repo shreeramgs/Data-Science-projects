@@ -4,7 +4,7 @@
 **Find/Define a problem statement**:
 The problem statement is a critical first step in any data science project, providing a clear definition of the problem to be solved and guiding the development of research questions and hypotheses to reach a well-defined solution.
 
-**How to find the scope of the problem, and where to begin? **
+**How to find the scope of the problem, and where to begin?**
 One approach I personally use to start and solve any case scenario is to use the below method and structure a solution accordingly.
 ![image](https://user-images.githubusercontent.com/40434495/236561740-3a14afbc-97e7-430d-9804-5a11f6f0d1dc.png)
 
