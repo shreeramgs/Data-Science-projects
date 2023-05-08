@@ -28,7 +28,7 @@ One approach I personally use to start and solve any case scenario is to use the
 - [x] **Conclude**:
 -  Provide a conclusion by explaining the problem statement’s significance and decisions to be taken based on the results 
 
-# Prerequisite needed to achieve solve problems:
+# Prerequisite needed to solve problems:
 Below are few prerequisites that I personally consider to be very usefull to solve a use case scenario.
 
 ## 1. Python Programming Language
