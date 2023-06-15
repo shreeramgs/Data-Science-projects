@@ -35,29 +35,29 @@ One approach I personally use to start and solve any case scenario is to use the
 # **Steps involved in solving a Data Science problem**
 ![data science workflow](https://github.com/shreeramgs/Data-Science-projects/assets/40434495/816ff17b-5f18-42e1-af9f-9661397797c7)
 
--    #   Data Analysis
+-   #    Data Analysis
     >   **Data Acquisition**:
-        -   Gather requirements
-        -   identify relevant data, using APIs, web scraping, flat files or other means of data collection
-        -   
+    -   Gather requirements
+    -   identify relevant data, using APIs, web scraping, flat files or other means of data collection
+
     >   **Data Quality measures**:
-        -   Accuracy
-        -   Completeness
-        -   Consistency and timeliness
-        -   Interpretable/ Believability
-        -   
+    -   Accuracy
+    -   Completeness
+    -   Consistency and timeliness
+    -   Interpretable/ Believability
+
     >   **Data Cleaning**:
     -   handling missing values, outliers,inconsistencies
     -   smoothing noisy data
     -   **Tools**: _Python (Pandas, Numpy), Informatica, Talend_
-    -   
+
     >   **Data Integration**:
     -   Provide data models explaining heterogeneity and structure of data
     -   Find redundancies
     -   Solve naming inconsistencies from data sources
     -   Find corelation of attributes
     -   **Tools**:  _Talend, Informatica, Oracle_
-    -   
+
     >   **Data Reduction**:
     -   **Dimensionality reduction**:
         -   D.W.T
@@ -66,13 +66,13 @@ One approach I personally use to start and solve any case scenario is to use the
     -   **Numerosity reduction**:
         -   Parametric: regression or log-linear
         -   Non-parametric: _Histograms, clusters, sampling, data aggregation_
-        -   
+    
     >   **Data Transformation**:
     -   Smoothing data
     -   Normalization(_min-max, Z-score, Decimal Scaling_)
     -   Discretization
     -   Conceptual Hierarchy
-    -   
+
     >   **Data Visualization**:
     -   **Python**: _Matplotlib and Seaborn _
     -   **R**:  _ggplot2, Plotly, Shiny, tidyquant_
